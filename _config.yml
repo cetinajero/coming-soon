@@ -1,0 +1,6 @@
+name: Coming soon
+markdown: kramdown
+permalink: /:categories/:title/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
